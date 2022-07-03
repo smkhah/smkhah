@@ -1,0 +1,31 @@
+
+body{
+    background-image: url('mediea/e718fe3329a3709e7dd8d04267742c5f.jpeg') ;
+}
+
+.wrapp{
+    background-color: rgba(238, 180, 64, 0.487);
+    text-align: center;
+    margin: 0 auto;
+    width: 90%;
+    border-radius: 15px;
+}
+
+.insta{
+    width: 100px;
+    height: 100px;
+}
+
+.map{
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+
+p{
+    background-color:rgb(255, 255, 255);
+    border-radius: 30px;
+    height: 23px;
+    width: 180px;
+    margin-left: 80px;
+}
