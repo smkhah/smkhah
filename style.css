@@ -3,6 +3,18 @@ body{
     background-image: url('mediea/e718fe3329a3709e7dd8d04267742c5f.jpeg') ;
 }
 
+h1{
+margin: -10px;
+}
+
+p{
+    background-color:rgb(255, 255, 255);
+    border-radius: 30px;
+    height: 23px;
+    width: 180px;
+    margin-left: 80px;
+}
+
 .wrapp{
     background-color: rgba(238, 200, 64, 0.487);
     text-align: center;
@@ -24,16 +36,6 @@ body{
     margin-top: -10px;
 }
 
-h1{
-margin: -10px;
-}
-p{
-    background-color:rgb(255, 255, 255);
-    border-radius: 30px;
-    height: 23px;
-    width: 180px;
-    margin-left: 80px;
-}
 
 .btm{
     margin-bottom: 45px;
