@@ -4,7 +4,7 @@ body{
 }
 
 .wrapp{
-    background-color: rgba(238, 180, 64, 0.487);
+    background-color: rgba(238, 200, 64, 0.487);
     text-align: center;
     margin: 0 auto;
     width: 90%;
@@ -12,16 +12,21 @@ body{
 }
 
 .insta{
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
+    margin-top: -20px;
 }
 
 .map{
     height: 100px;
     width: 100px;
     border-radius: 25px;
+    margin-top: -10px;
 }
 
+h1{
+margin: -10px;
+}
 p{
     background-color:rgb(255, 255, 255);
     border-radius: 30px;
