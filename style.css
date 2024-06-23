@@ -1,33 +1,34 @@
 
 body{
-    background-image: url('mediea/e718fe3329a3709e7dd8d04267742c5f.jpeg') ;
+    background-image: url('mediea/5f023a890be29d495a4c0845593da8c0.jpg') ;
+    background-size: 100%;
 }
 
-h1{
-margin: -10px;
+.eye-ontop{
+    margin-left: -20px;
+    margin-top: -145px;
+    position: absolute;
 }
+
+
 
 p{
-    background-color:rgb(255, 255, 255);
+    background-color:#4c6b8b;
+    color: aliceblue;
     border-radius: 30px;
     height: 23px;
     width: 180px;
-    margin-left: 80px;
+    margin-left: 24%;
 }
 
 .wrapp{
-    background-color: rgba(238, 200, 64, 0.487);
     text-align: center;
     margin: 0 auto;
     width: 90%;
     border-radius: 15px;
+    margin-top: 150px;
 }
 
-.insta{
-    width: 70px;
-    height: 70px;
-    margin-top: -20px;
-}
 
 .map{
     height: 100px;
@@ -39,4 +40,45 @@ p{
 
 .btm{
     margin-bottom: 45px;
+}
+
+.logo{
+    text-align: center;
+    margin: 0 auto;
+    width: 90%;
+    margin-top: -50px;
+}
+
+
+.eye-homepage{
+    margin-left: 35%;
+    margin-top: 20%;
+}
+
+a{
+    color: #4c6b8b;
+    font-family: helvetica;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.pranch-text{
+    text-align: center;
+    margin-top: 25%;
+}
+
+.social-logo-position{
+    margin-top: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.socal-logo{
+    width: 30px;
+    height: 30px;
+    margin: 30%;
+    margin: 10px;
+    padding: 10%;
 }
